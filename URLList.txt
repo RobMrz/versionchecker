@@ -1,0 +1,1 @@
+https://pub.dev/packages/qr_flutter/changelog

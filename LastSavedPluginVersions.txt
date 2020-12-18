@@ -1,0 +1,2 @@
+crypto 2.1.5
+camera 0.6.0
